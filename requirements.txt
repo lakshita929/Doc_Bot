@@ -1,0 +1,9 @@
+streamlit
+gpt4all
+arxiv
+pdfminer.six
+chromadb
+streamlit-option-menu
+streamlit-extras
+streamlit-card
+streamlit-searchbox
